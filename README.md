@@ -1,4 +1,4 @@
-# learning-react-mentoring
+# Formulario_JS
 Formulario de entreno
 VERSIÓN 1
 Este repositorio lo cree con el fin de poner en práctica mis conocimientos adquiridos sobre el desarrollo web (Frontend)
